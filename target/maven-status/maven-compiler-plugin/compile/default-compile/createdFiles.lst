@@ -1,0 +1,3 @@
+com\mkyong\servlet3\MyWebInitializer.class
+com\mkyong\web\controller\HelloController.class
+com\mkyong\config\SpringWebConfig.class
